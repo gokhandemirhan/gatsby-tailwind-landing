@@ -3,3 +3,8 @@
 @tailwind components;
 /*! purgecss end ignore */
 @tailwind utilities;
+
+
+.bg-grey{
+    background-color: #f9f8f8;
+}
